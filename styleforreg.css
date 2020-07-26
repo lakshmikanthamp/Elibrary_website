@@ -1,0 +1,33 @@
+.back{
+    background-image: url('https://horizontechs.com/wp-content/uploads/2013/05/banner.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+     height:100%;
+      width:100%;
+      color:white;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-weight: bold;
+    }
+    .sty
+    {
+        color:white;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .form-text
+    {
+        color:white;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .form-container
+    {
+      border:0px solid white; padding:50px 60px;margin-bottom:20vh;
+      -webkit-box-shadow: 3px 3px 16px 10px rgba(0,0,0,0.75);
+  -moz-box-shadow: 3px 3px 16px 10px rgba(0,0,0,0.75);
+  box-shadow: 3px 3px 16px 10px rgba(0,0,0,0.75);
+    }
+    body html{
+        margin:0;
+        color:white;
+        padding:0;
+    }
